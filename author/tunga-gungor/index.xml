@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tunga Güngör | Rıza Özçelik</title>
-    <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/tunga-gungor/</link>
-      <atom:link href="https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/tunga-gungor/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rizaozcelik.github.io/author/tunga-gungor/</link>
+      <atom:link href="https://rizaozcelik.github.io/author/tunga-gungor/index.xml" rel="self" type="application/rss+xml" />
     <description>Tunga Güngör</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cmpe.boun.edu.tr/~riza.ozcelik/images/icon_huffb0aa39e3322d800cf76e883eb58aff_22058_512x512_fill_lanczos_center_2.png</url>
+      <url>https://rizaozcelik.github.io/images/icon_huffb0aa39e3322d800cf76e883eb58aff_22058_512x512_fill_lanczos_center_2.png</url>
       <title>Tunga Güngör</title>
-      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/tunga-gungor/</link>
+      <link>https://rizaozcelik.github.io/author/tunga-gungor/</link>
     </image>
     
     <item>
       <title>Data and Representation for Turkish Natural Language Inference</title>
-      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/nli-tr/</link>
+      <link>https://rizaozcelik.github.io/publication/nli-tr/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/nli-tr/</guid>
+      <guid>https://rizaozcelik.github.io/publication/nli-tr/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elif Ozkirimli | Rıza Özçelik</title>
-    <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/elif-ozkirimli/</link>
-      <atom:link href="https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/elif-ozkirimli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rizaozcelik.github.io/author/elif-ozkirimli/</link>
+      <atom:link href="https://rizaozcelik.github.io/author/elif-ozkirimli/index.xml" rel="self" type="application/rss+xml" />
     <description>Elif Ozkirimli</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cmpe.boun.edu.tr/~riza.ozcelik/images/icon_huffb0aa39e3322d800cf76e883eb58aff_22058_512x512_fill_lanczos_center_2.png</url>
+      <url>https://rizaozcelik.github.io/images/icon_huffb0aa39e3322d800cf76e883eb58aff_22058_512x512_fill_lanczos_center_2.png</url>
       <title>Elif Ozkirimli</title>
-      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/elif-ozkirimli/</link>
+      <link>https://rizaozcelik.github.io/author/elif-ozkirimli/</link>
     </image>
     
     <item>
       <title>ChemBoost: A chemical language based approach for the prediction of protein - ligand binding affinity</title>
-      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/chemboost/</link>
+      <link>https://rizaozcelik.github.io/publication/chemboost/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/chemboost/</guid>
+      <guid>https://rizaozcelik.github.io/publication/chemboost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vapur: A Search Engine to Find Related Protein - Compound Pairs in COVID-19 Literature</title>
-      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/vapur/</link>
+      <link>https://rizaozcelik.github.io/publication/vapur/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/vapur/</guid>
+      <guid>https://rizaozcelik.github.io/publication/vapur/</guid>
       <description></description>
     </item>
     
