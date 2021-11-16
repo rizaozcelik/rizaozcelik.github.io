@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arzucan Özgür | Rıza Özçelik</title>
+    <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/arzucan-ozgur/</link>
+      <atom:link href="https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/arzucan-ozgur/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arzucan Özgür</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cmpe.boun.edu.tr/~riza.ozcelik/images/icon_huffb0aa39e3322d800cf76e883eb58aff_22058_512x512_fill_lanczos_center_2.png</url>
+      <title>Arzucan Özgür</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/arzucan-ozgur/</link>
+    </image>
+    
+    <item>
+      <title>ChemBoost: A chemical language based approach for the prediction of protein - ligand binding affinity</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/chemboost/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/chemboost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vapur: A Search Engine to Find Related Protein - Compound Pairs in COVID-19 Literature</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/vapur/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/vapur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

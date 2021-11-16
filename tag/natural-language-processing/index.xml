@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural language processing | Rıza Özçelik</title>
+    <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/tag/natural-language-processing/</link>
+      <atom:link href="https://www.cmpe.boun.edu.tr/~riza.ozcelik/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>natural language processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cmpe.boun.edu.tr/~riza.ozcelik/images/icon_huffb0aa39e3322d800cf76e883eb58aff_22058_512x512_fill_lanczos_center_2.png</url>
+      <title>natural language processing</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/tag/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>Vapur: A Search Engine to Find Related Protein - Compound Pairs in COVID-19 Literature</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/vapur/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/vapur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data and Representation for Turkish Natural Language Inference</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/nli-tr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/nli-tr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Interface for Turkish Word Network KeNet</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/kenet/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/kenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Interfaces for Turkish Natural Language Processing</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/nlptoolkit/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/nlptoolkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Set Generation for Analysis of Turkish Semantic and Sentence Similarity</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/dataset-gen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/dataset-gen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

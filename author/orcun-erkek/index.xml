@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orçun Erkek | Rıza Özçelik</title>
+    <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/orcun-erkek/</link>
+      <atom:link href="https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/orcun-erkek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Orçun Erkek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cmpe.boun.edu.tr/~riza.ozcelik/images/icon_huffb0aa39e3322d800cf76e883eb58aff_22058_512x512_fill_lanczos_center_2.png</url>
+      <title>Orçun Erkek</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/author/orcun-erkek/</link>
+    </image>
+    
+    <item>
+      <title>Data Set Generation for Analysis of Turkish Semantic and Sentence Similarity</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/dataset-gen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cmpe.boun.edu.tr/~riza.ozcelik/publication/dataset-gen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

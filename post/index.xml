@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Rıza Özçelik</title>
+    <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/post/</link>
+      <atom:link href="https://www.cmpe.boun.edu.tr/~riza.ozcelik/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://www.cmpe.boun.edu.tr/~riza.ozcelik/images/icon_huffb0aa39e3322d800cf76e883eb58aff_22058_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://www.cmpe.boun.edu.tr/~riza.ozcelik/post/</link>
+    </image>
+    
+  </channel>
+</rss>
